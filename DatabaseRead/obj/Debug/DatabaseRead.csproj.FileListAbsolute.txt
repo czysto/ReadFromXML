@@ -1,0 +1,7 @@
+C:\Users\MM\source\repos\DatabaseRead\DatabaseRead\bin\Debug\DatabaseRead.exe.config
+C:\Users\MM\source\repos\DatabaseRead\DatabaseRead\bin\Debug\DatabaseRead.exe
+C:\Users\MM\source\repos\DatabaseRead\DatabaseRead\bin\Debug\DatabaseRead.pdb
+C:\Users\MM\source\repos\DatabaseRead\DatabaseRead\obj\Debug\DatabaseRead.csprojAssemblyReference.cache
+C:\Users\MM\source\repos\DatabaseRead\DatabaseRead\obj\Debug\DatabaseRead.csproj.CoreCompileInputs.cache
+C:\Users\MM\source\repos\DatabaseRead\DatabaseRead\obj\Debug\DatabaseRead.exe
+C:\Users\MM\source\repos\DatabaseRead\DatabaseRead\obj\Debug\DatabaseRead.pdb
